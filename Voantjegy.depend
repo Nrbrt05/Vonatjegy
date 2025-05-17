@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1747489020 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\customer.cpp
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"Customer.h"
+	"Date.h"
+	"Train.h"
+	"string5.h"
+	"Time.h"
+
+1747426345 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\date.cpp
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"Date.h"
+
+1745506943 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1742326869 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1747472492 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\time.cpp
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"Time.h"
+
+1747426381 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\train.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"memtrace.h"
+	"Train.h"
+	"string5.h"
+	"Time.h"
+
+1747492433 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\vonatjegy_main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<iomanip>
+	"Date.h"
+	"Time.h"
+	"string5.h"
+	"Train.h"
+	"Customer.h"
+	"fajlkezeles.h"
+	"vonatfelv.h"
+	"jegyvet.h"
+	"jegymut.h"
+	"memtrace.h"
+
+1747497651 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\vonatjegy_test.cpp
+	<iostream>
+	<sstream>
+	<windows.h>
+	"memtrace.h"
+	"Time.h"
+	"Date.h"
+	"string5.h"
+	"Train.h"
+	"Customer.h"
+	"gtest_lite.h"
+
+1747432673 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\string5.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"memtrace.h"
+	"string5.h"
+
+1747426316 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\string5.h
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+
+1747474341 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\fajlkezeles.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"memtrace.h"
+	"Date.h"
+	"Time.h"
+	"string5.h"
+	"Train.h"
+	"Customer.h"
+	"fajlkezeles.h"
+
+1747489380 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\jegymut.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<thread>
+	<chrono>
+	"Train.h"
+	"Customer.h"
+
+1747486350 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\jegyvet.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+	<string>
+	<iomanip>
+	"memtrace.h"
+	"Customer.h"
+	"string5.h"
+	"Time.h"
+	"Date.h"
+	"Train.h"
+	"jegyvet.h"
+
+1747426294 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\date.h
+	<iomanip>
+	<iostream>
+	"memtrace.h"
+
+1745505156 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1747426321 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\time.h
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"string5.h"
+
+1747426326 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\train.h
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"string5.h"
+	"Date.h"
+	"Time.h"
+
+1747489001 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\customer.h
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"string5.h"
+	"Date.h"
+	"Time.h"
+	"Train.h"
+
+1747486412 source:c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\vonatfelv.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<iomanip>
+	"vonatfelv.h"
+
+1747426292 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\fajlkezeles.h
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	"memtrace.h"
+	"Date.h"
+	"Time.h"
+	"string5.h"
+	"Train.h"
+	"Customer.h"
+
+1747426332 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\vonatfelv.h
+	<iostream>
+	<iomanip>
+	"Train.h"
+
+1747426308 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\jegyvet.h
+	<iostream>
+	<iomanip>
+	"memtrace.h"
+	"Customer.h"
+	"string5.h"
+	"Time.h"
+	"Date.h"
+	"Train.h"
+	"jegyvet.h"
+
+1747489055 c:\users\pofi7\onedrive\dokumentumok\prog 2\voantjegy\jegymut.h
+	<iostream>
+	<iomanip>
+	"Train.h"
+	"Customer.h"
+

@@ -1,0 +1,80 @@
+Azonosito: 12
+Indulasi ido: 08::50
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Budapest
+Oda ut: 03::00
+Korok: 3
+&
+Azonosito: 1212
+Indulasi ido: 05::50
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Kiskunfelegyhaza
+Oda ut: 01::30
+Korok: 2
+&
+Azonosito: 4545
+Indulasi ido: 10::00
+Kocsik szama: 20
+Indulasi hely: Szeged
+Erkezesi hely: Debrecen
+Oda ut: 03::30
+Korok: 1
+&
+Azonosito: 4444
+Indulasi ido: 08::00
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Takerpan
+Oda ut: 01::00
+Korok: 2
+&
+Azonosito: 5555
+Indulasi ido: 09::00
+Kocsik szama: 22
+Indulasi hely: Szeged
+Erkezesi hely: Bekescsaba
+Oda ut: 02::00
+Korok: 2
+&
+Azonosito: 2201
+Indulasi ido: 09::00
+Kocsik szama: 22
+Indulasi hely: Teketa
+Erkezesi hely: Takata
+Oda ut: 01::00
+Korok: 2
+&
+Azonosito: 2112
+Indulasi ido: 09::00
+Kocsik szama: 22
+Indulasi hely: Tarjan
+Erkezesi hely: Tigu
+Oda ut: 01::30
+Korok: 2
+&
+Azonosito: 999
+Indulasi ido: 09::00
+Kocsik szama: 22
+Indulasi hely: Szeged
+Erkezesi hely: Siofok
+Oda ut: 03::00
+Korok: 2
+&
+Azonosito: 2320
+Indulasi ido: 11::00
+Kocsik szama: 10
+Indulasi hely: Ribo
+Erkezesi hely: Nukleinsav
+Oda ut: 01::30
+Korok: 2
+&
+Azonosito: 1000
+Indulasi ido: 08::00
+Kocsik szama: 24
+Indulasi hely: Szeged
+Erkezesi hely: Tirana
+Oda ut: 05::00
+Korok: 1
+&

@@ -1,0 +1,72 @@
+Keresztnev: Tibu
+Vezeteknev: Mati
+Hely: 0
+Ervenyes(indulasi datum, azonosito, ido):
+2013.10.04
+Azonosito: 4444
+Indulasi ido: 08::00
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Takerpan
+Erkezesi ido: 09::00
+&
+Keresztnev: Tibu
+Vezeteknev: Mati
+Hely: 1
+Ervenyes(indulasi datum, azonosito, ido):
+1999.12.12
+Azonosito: 12
+Indulasi ido: 08::50
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Budapest
+Erkezesi ido: 11::50
+&
+Keresztnev: Tekatapa
+Vezeteknev: Tikitapa
+Hely: 8
+Ervenyes(indulasi datum, azonosito, ido):
+2090.10.11
+Azonosito: 12
+Indulasi ido: 08::50
+Kocsik szama: 12
+Indulasi hely: Szeged
+Erkezesi hely: Budapest
+Erkezesi ido: 11::50
+&
+Keresztnev: Rikapa
+Vezeteknev: Terapa
+Hely: 13
+Ervenyes(indulasi datum, azonosito, ido):
+2010.12.10
+Azonosito: 999
+Indulasi ido: 09::00
+Kocsik szama: 22
+Indulasi hely: Szeged
+Erkezesi hely: Siofok
+Erkezesi ido: 12::00
+&
+Keresztnev: Dezoxi
+Vezeteknev: Ribonukleinsav
+Hely: 9
+Ervenyes(indulasi datum, azonosito, ido):
+2010.04.12
+Azonosito: 2320
+Indulasi ido: 11::00
+Kocsik szama: 10
+Indulasi hely: Ribo
+Erkezesi hely: Nukleinsav
+Erkezesi ido: 12::30
+&
+Keresztnev: Bela
+Vezeteknev: Kovacs
+Hely: 2
+Ervenyes(indulasi datum, azonosito, ido):
+2025.05.17
+Azonosito: 1000
+Indulasi ido: 08::00
+Kocsik szama: 24
+Indulasi hely: Szeged
+Erkezesi hely: Tirana
+Erkezesi ido: 13::00
+&
